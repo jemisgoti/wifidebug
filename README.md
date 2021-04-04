@@ -17,13 +17,7 @@ wether you want to user same ip address and port for new connection
 
  
 
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://raw.githubusercontent.com/jemisgoti/wifidebug/main/1.png)
-
+ 
 
 Now you dont need to fire adb command manualy.wifidebug app will run command on your behalf.
 feature:
